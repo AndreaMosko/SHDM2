@@ -1,3 +1,6 @@
+_Below is a markdown file from the notebook `Some code samples.ipynb`. It is the exact same content, you can preview it without having to upload the notebook anywhere._  
+ 
+
 # Python Question
 
 ## Introduction
